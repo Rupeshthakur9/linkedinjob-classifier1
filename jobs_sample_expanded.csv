@@ -1,0 +1,21 @@
+id,title,description,label
+1,Senior Data Scientist,"Develop predictive models using Python, R, and machine learning algorithms. Work with large datasets.",data_scientist
+2,Data Engineer,"Design and maintain ETL pipelines using Spark, Airflow, and SQL. Ensure data reliability.",data_engineer
+3,Junior Data Analyst,"Analyze data using SQL, Excel, and Tableau to create dashboards and reports.",data_analyst
+4,Machine Learning Engineer,"Build and deploy ML models, optimize pipelines, and integrate with APIs.",data_scientist
+5,Business Intelligence Analyst,"Develop BI dashboards, generate insights from data warehouses, and support decision-making.",data_analyst
+6,Lead Data Scientist,"Lead a team of data scientists, design experiments, and deliver ML solutions for business.",data_scientist
+7,ETL Developer,Create ETL workflows for structured and unstructured data using Informatica and SQL Server.,data_engineer
+8,Big Data Engineer,"Implement big data solutions using Hadoop, Hive, and PySpark for large-scale analytics.",data_engineer
+9,Quantitative Analyst,"Perform quantitative analysis, risk modeling, and financial forecasting using Python and R.",data_scientist
+10,Research Data Scientist,"Conduct research in machine learning and data science, publish findings, and prototype models.",data_scientist
+11,Data Analyst Intern,"Support senior analysts by cleaning data, generating reports, and writing SQL queries.",data_analyst
+12,Cloud Data Engineer,"Develop scalable data infrastructure on AWS/GCP, manage pipelines, and optimize storage.",data_engineer
+13,AI Specialist,"Research AI algorithms, build prototypes, and integrate into existing systems.",data_scientist
+14,Database Administrator,"Maintain relational databases, write stored procedures, and manage backups/security.",data_engineer
+15,Data Visualization Analyst,"Create visual dashboards with Power BI, Tableau, and explain insights to stakeholders.",data_analyst
+16,Statistician,"Apply statistical methods, run hypothesis tests, and analyze experimental results.",data_scientist
+17,Data Architect,"Design enterprise data models, define schemas, and oversee data governance.",data_engineer
+18,Applied Scientist,"Work on NLP models, recommendation systems, and applied research problems.",data_scientist
+19,Reporting Analyst,"Prepare business reports, automate reporting processes, and work with Excel & SQL.",data_analyst
+20,Deep Learning Engineer,Develop and optimize deep learning models using TensorFlow and PyTorch.,data_scientist

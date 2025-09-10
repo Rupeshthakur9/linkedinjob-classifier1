@@ -1,0 +1,13 @@
+beautifulsoup4
+requests
+pandas
+scikit-learn
+joblib
+fastapi
+uvicorn
+python-multipart
+tensorflow
+transformers
+torch
+sentencepiece
+tqdm
